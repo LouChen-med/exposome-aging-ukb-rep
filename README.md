@@ -3,7 +3,7 @@ Replication of the paper "Integrating the environmental and genetic architecture
 
 ## Code
 ### 01-UKB-data-import.Rmd  
-The variable names in the RMD file are optimized according to the data from the UKB rap platform of Feb 032025
+The variable names in the RMD file are optimized according to the data from the UKB rap platform of Feb 03 2025
 
 D:\git\exposome-aging-ukb-rep\func\split_colum.R  is use to split the array mixed variable
 
